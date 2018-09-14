@@ -1,0 +1,30 @@
+D:\C#\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe.config
+D:\C#\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe
+D:\C#\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.pdb
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csprojResolveAssemblyReference.cache
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form1.resources
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Properties.Resources.resources
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csproj.GenerateResource.Cache
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.exe
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.pdb
+D:\C#\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form2.resources
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form1.resources
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form2.resources
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Properties.Resources.resources
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.exe
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.pdb
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe.config
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe
+C:\Users\Admin\Desktop\Caculator\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.pdb
+D:\C#\Caculator_end\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe.config
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.exe
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.pdb
+D:\C#\Caculator_end\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.exe
+D:\C#\Caculator_end\Đồ án cuối kì\bin\Debug\Đồ án cuối kì.pdb
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csprojResolveAssemblyReference.cache
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form1.resources
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Form2.resources
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ_án_cuối_kì.Properties.Resources.resources
+D:\C#\Caculator_end\Đồ án cuối kì\obj\Debug\Đồ án cuối kì.csproj.GenerateResource.Cache
